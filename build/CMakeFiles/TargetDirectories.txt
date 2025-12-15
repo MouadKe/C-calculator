@@ -1,0 +1,3 @@
+/home/mk82/Documents/Fac/S5/Compilation/C-calculator/build/CMakeFiles/expr.dir
+/home/mk82/Documents/Fac/S5/Compilation/C-calculator/build/CMakeFiles/edit_cache.dir
+/home/mk82/Documents/Fac/S5/Compilation/C-calculator/build/CMakeFiles/rebuild_cache.dir

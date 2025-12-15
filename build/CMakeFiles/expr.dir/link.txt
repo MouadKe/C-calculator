@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/expr.dir/link.d CMakeFiles/expr.dir/y.tab.c.o CMakeFiles/expr.dir/lex.yy.c.o -o expr  -lm

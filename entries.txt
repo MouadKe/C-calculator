@@ -1,0 +1,4 @@
+somme(1,2,3)
+produit(2, somme(3,4), 5)
+moyenne(10,20,30)
+(somme(1,2,3) + produit(2,2,2)) * (moyenne(10,20,30) - variance(1,1,1,1))
